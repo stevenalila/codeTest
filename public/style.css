@@ -1,0 +1,9 @@
+.container {
+    margin: auto;
+    padding: 10px;
+    overflow: hidden;
+}
+
+h1{
+    color:#000080;
+}
